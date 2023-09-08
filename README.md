@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kira-master&label=Profile%20views&color=0e75b6&style=flat" alt="kira-master" /> </p>
 
-- 🔭 I’m currently working on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWWEBJS)
+- 🔭 I’m currently working on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWAWEBJS)
 
 - 🌱 I’m currently learning **NodeJS, Bootstrap 5, ReactJS**
 
-- 👯 I’m looking to collaborate on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWWEBJS)
+- 👯 I’m looking to collaborate on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWAWEBJS)
 
 - 👨‍💻 All of my projects are available at [https://zexxa.tech](https://zexxa.tech)
 
