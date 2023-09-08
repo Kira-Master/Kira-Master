@@ -1,59 +1,27 @@
-- 👋 Hi, I’m @Kira-Master
-- 👀 I’m interested in NodeJS
-- 🌱 I’m currently learning JavaScript
-<!---
-Kira-Master/Kira-Master is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hiiii! <img src="https://avatars.githubusercontent.com/u/47713860?v=4" style="border-radius:5;" width="45px" alt=""><br></h1>
-<p align="center">
-<a href="https://wa.me/6282322153431"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/47713860?v=4"/></a>
+<h1 align="center">Hi 👋, I'm Kira Master</h1>
+<h3 align="center">i,am just a newbie</h3>
 
-<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kira-master&label=Profile%20views&color=0e75b6&style=flat" alt="kira-master" /> </p>
 
-- Hy Im Kira-Master
-- I am 17 years old
-- I live in Indonesian
-- Thank you and follow me
+- 🔭 I’m currently working on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWWEBJS)
 
+- 🌱 I’m currently learning **NodeJS, Bootstrap 5, ReactJS**
 
-------
+- 👯 I’m looking to collaborate on [Whatsapp Bot using WAWEBJS Library](http://github.com/Kira-Master/ZexxaWWEBJS)
 
-### Connect with me 
-<p align="center">
-  <a href="https://instagram.com/kii1raaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6282322153431"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+- 👨‍💻 All of my projects are available at [https://zexxa.tech](https://zexxa.tech)
 
-  
-------
+- 📫 How to reach me **ceoparker@zexxa.tech**
 
-### My YouTube
-<p align="center">
-<a href="https://youtube.com/c/FauziMatsukio"><img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iOWK29EIreQnokJ32P6XKpDLFsOp5j09pIGfigQvPnf-eJyP2OptFFo&s=10"/></a><br><br>
-<a href="https://youtube.com/c/FauziMatsukio"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iOWK29EIreQnokJ32P6XKpDLFsOp5j09pIGfigQvPnf-eJyP2OptFFo&s=10" />
-</a>
-<p align="center">
+- ⚡ Fun fact **i'am a humoris man? i don't think so LoL**
 
-- Fauzi Matsukio
-- See more and subscribe
-
-------
-
-### Spotify Music
-
-<p align="center">
-  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/fauzixliljee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fauzixliljee" height="30" width="40" /></a>
+<a href="https://instagram.com/paujikerenbanget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paujikerenbanget" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fauzi matsukio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fauzi matsukio" height="30" width="40" /></a>
 </p>
 
-------
- 
-### Github Stats 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![github card](https://github-readme-stats.vercel.app/api?username=Kira-Master&show_icons=true&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Master&theme=monokai)
-
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kira-Master&repo=KYURAV2&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kira-Master&repo=Kira-Master.github.io&theme=dark)
